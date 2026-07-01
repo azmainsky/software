@@ -1,2 +1,2 @@
 # Project Simulator
-hi akash
+bye akash
